@@ -2,6 +2,9 @@
 
 This is tiny project with Behavior-Driven JavaScript library [Jasmine](http://jasmine.github.io/2.2/introduction.html) and  I used jasmine for testing this application functions.
 
+### Run the project
+Click the following link to see demo https://m-matin.github.io/jasmine_Feedreader
+
 ### This is my testing function in `jasmine/spec/feedreader.js`
 
 ```javascript
