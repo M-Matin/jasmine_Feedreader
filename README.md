@@ -5,6 +5,11 @@ This is tiny project with Behavior-Driven JavaScript library [Jasmine](http://ja
 ### Run the project
 Click the following link to see demo https://m-matin.github.io/jasmine_Feedreader
 
+### Run locally
+Open your favorite terminal emulator and run
+ `git clone https://github.com/M-Matin/jasmine_Feedreader.git`
+ open dowloaded folder and run `index.html`
+
 ### This is my testing function in `jasmine/spec/feedreader.js`
 
 ```javascript
@@ -103,3 +108,6 @@ $(function() {
 
 }());
 ```
+
+### result
+![result](https://github.com/M-Matin/jasmine_Feedreader/result.png?raw=true)
