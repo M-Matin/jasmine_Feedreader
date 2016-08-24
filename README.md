@@ -110,4 +110,4 @@ $(function() {
 ```
 
 ### result
-![result](https://github.com/M-Matin/jasmine_Feedreader/result.png?raw=true)
+![result](https://github.com/M-Matin/jasmine_Feedreader/blob/master/result.png?raw=true)
