@@ -100,13 +100,12 @@ $(function() {
             });
         });
 
-        it('there is at least a single .entry element within the .feed container.', function() {
-            var entryLength = $('.entry').length;
-            expect(entryLength).toBeGreaterThan(0);
+        it('there is at least a single .entry element within the .feed container', function(done) {
+            var entryLength = $('.feed .entry')[0];
+            expect(entryLength).toBeGreaterThan('');
+            done();
         });
     });
-
-
 
     /* TODO: Write a new test suite named "New Feed Selection"*/
 
